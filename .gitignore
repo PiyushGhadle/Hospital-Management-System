@@ -1,0 +1,27 @@
+### Java ###
+*.class
+
+### Maven ###
+target/
+
+### IntelliJ ###
+.idea/
+*.iml
+
+### Eclipse ###
+.project
+.classpath
+.settings/
+
+### VS Code ###
+.vscode/
+
+### Logs ###
+*.log
+
+### Environment ###
+.env
+
+### OS ###
+.DS_Store
+Thumbs.db
